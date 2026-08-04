@@ -368,15 +368,19 @@
   </a>
   &nbsp;
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/file-hunter?id=99daebaad29f4f2e9e81b739de32eb9d">
-    <img src="https://storage.hackviser.com/file/hackviser-prod/completed-scenarios/99daebaad29f4f2e9e81b739de32eb9d.png" height="120" alt="Warmup: File Hunter (Hackviser)" />
+    <img src="ASSETS/Badges/Hackviser/file-hunter.png" height="120" alt="Warmup: File Hunter (Hackviser)" />
   </a>
   <br><br>
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/arrow?id=6a11360488064bd4a57a9481e5b7d5cd">
-    <img src="https://storage.hackviser.com/file/hackviser-prod/completed-scenarios/6a11360488064bd4a57a9481e5b7d5cd.png" height="120" alt="Warmup: Arrow (Hackviser)" />
+    <img src="ASSETS/Badges/Hackviser/arrow.png" height="120" alt="Warmup: Arrow (Hackviser)" />
   </a>
   &nbsp;
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/secure-command?id=4f0c645fb9754ed3b934a3721cf9a74b">
-    <img src="https://storage.hackviser.com/file/hackviser-prod/completed-scenarios/4f0c645fb9754ed3b934a3721cf9a74b.png" height="120" alt="Warmup: Secure Command (Hackviser)" />
+    <img src="ASSETS/Badges/Hackviser/secure-command.png" height="120" alt="Warmup: Secure Command (Hackviser)" />
+  </a>
+  &nbsp;
+  <a href="https://app.hackviser.com/show/ShariqKn/warmups/query-gate?id=1a0b3993755e4af78fcdf504d3b9dabc">
+    <img src="ASSETS/Badges/Hackviser/query-gate.png" height="120" alt="Warmup: Query Gate (Hackviser)" />
   </a>
 </div>
 
