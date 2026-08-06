@@ -14,6 +14,10 @@
   <a href="https://www.linkedin.com/in/muhammad-shariq-khan-9521133a1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://shariqkhan256.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0e7490?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
