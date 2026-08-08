@@ -396,6 +396,12 @@
   <a href="https://www.credly.com/badges/e34f9d95-743c-4ae8-9013-84d3eccffe1b/public_url">
     <img src="ASSETS/Badges/Credly/introduction-to-cybersecurity.png" height="120" alt="Introduction to Cybersecurity Badge" />
   </a>
+  &nbsp;
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/resource_specialist_7.png" height="120" alt="Resource Specialist Badge" />
+  &nbsp;
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/network_defense_6.png" height="120" alt="Network Defense Badge" />
+  &nbsp;
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/system_safeguards_5.png" height="120" alt="System Safeguards Badge" />
 </div>
 
 ---
