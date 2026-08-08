@@ -6,6 +6,10 @@
   <a href="https://github.com/shariqkhan256">
     <img src="https://komarev.com/ghpvc/?username=shariqkhan256&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
+    &nbsp;
+  <a href="https://shariqkhan256.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0e7490?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   &nbsp;
   <a href="https://developers.google.com/profile/u/106979308278031459499">
     <img src="https://img.shields.io/badge/Google%20Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
@@ -14,10 +18,7 @@
   <a href="https://www.linkedin.com/in/muhammad-shariq-khan-9521133a1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://shariqkhan256.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0e7490?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+
 </div>
 
 <br>
@@ -368,13 +369,14 @@
 
 <div align="center">
   <a href="https://hackviser.com/verify?id=HV-CORE-BP65ZA5Z">
-    <img src="ASSETS/Badges/Hackviser/core-certification.png" height="120" alt="CORE: Certified Cybersecurity Foundations (Hackviser)" />
+    <img src="ASSETS/Badges/Hackviser/core-certification.png" height="240" alt="CORE: Certified Cybersecurity Foundations (Hackviser)" />
   </a>
   &nbsp;
+    <br><br>
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/file-hunter?id=99daebaad29f4f2e9e81b739de32eb9d">
     <img src="ASSETS/Badges/Hackviser/file-hunter.png" height="120" alt="Warmup: File Hunter (Hackviser)" />
   </a>
-  <br><br>
+
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/arrow?id=6a11360488064bd4a57a9481e5b7d5cd">
     <img src="ASSETS/Badges/Hackviser/arrow.png" height="120" alt="Warmup: Arrow (Hackviser)" />
   </a>
@@ -385,6 +387,14 @@
   &nbsp;
   <a href="https://app.hackviser.com/show/ShariqKn/warmups/query-gate?id=1a0b3993755e4af78fcdf504d3b9dabc">
     <img src="ASSETS/Badges/Hackviser/query-gate.png" height="120" alt="Warmup: Query Gate (Hackviser)" />
+  </a>
+</div>
+
+### 🔒 Cybersecurity Credentials
+
+<div align="center">
+  <a href="https://www.credly.com/badges/e34f9d95-743c-4ae8-9013-84d3eccffe1b/public_url">
+    <img src="ASSETS/Badges/Credly/introduction-to-cybersecurity.png" height="120" alt="Introduction to Cybersecurity Badge" />
   </a>
 </div>
 
@@ -419,9 +429,9 @@
 ---
 
 ## 💼 Experience Log &amp; Leadership
-- 📸 **Media Head** | Scholar Bridge Society (SBS), Namal University *(2024 - Present)*
-- 🎯 **Event Management Head** | Namal Idea Club (NIC) *(Sep 2025 - Present)*
-- 💡 **Event Management Head** | Namal Computing Society (NCS) *(Sep 2025 - Present)*
+- 📸 **Media Head** | Scholar Bridge Society (SBS), Namal University *(2024 - 2025)*
+- 🎯 **Event Management Head** | Namal Idea Club (NIC) *(Sep 2025 - 2026)*
+- 💡 **Event Management Head** | Namal Computing Society (NCS) *(Sep 2025 - 2026)*
 - 🏫 **Work-Study Student** | Namal University *(Sep 2024 - Aug 2025)*
 
 ---
