@@ -390,7 +390,7 @@
   </a>
 </div>
 
-### 🔒 Cybersecurity Credentials
+### 🔒 Ciscs Credentials
 
 <div align="center">
   <a href="https://www.credly.com/badges/e34f9d95-743c-4ae8-9013-84d3eccffe1b/public_url">
