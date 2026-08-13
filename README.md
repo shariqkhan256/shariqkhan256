@@ -361,6 +361,19 @@
   <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" height="85" alt="GDG Discovery" />
 </a>
 
+&nbsp;
+<a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-2?u=106979308278031459499">
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-2/badge.svg" height="85" alt="Android Basics Compose" />
+</a>
+&nbsp;
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio-canary?u=106979308278031459499">
+  <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio-canary/badge.svg" height="85" alt="Android Studio Canary" />
+</a>
+&nbsp;
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio-quail?u=106979308278031459499">
+  <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio-quail/badge.png" height="85" alt="Android Studio Quail" />
+</a>
+
 *Click any badge to verify credentials on my [Google Developer Profile](https://developers.google.com/profile/u/106979308278031459499)*
 
 </div>
